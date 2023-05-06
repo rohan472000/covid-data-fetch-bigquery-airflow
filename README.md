@@ -6,7 +6,7 @@ This repository contains codes to fetch COVID-19 data from an external API and s
 
 To install the necessary packages, run the following command:
 
-    `pip install -r requirements.txt`
+    pip install -r requirements.txt
 
 ## Configuration
 
